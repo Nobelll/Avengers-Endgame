@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-family: garamond;
+  }
+  p { color: aqua;
+    font-family: arial;
+    font-size: 17px;
+  }
+    
+  body {
+    color: yellow;
+    background:black;
+    text-align:center;
+      
+  }
+  a {
+    color: white;
+    font-size: 18px;
+  }
+  li {
+    text-align:left;
+  }
+  h3 {
+    background:white;
+    color:brown
+  }
